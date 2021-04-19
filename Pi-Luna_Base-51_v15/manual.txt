@@ -1,0 +1,109 @@
+admcgilp@gmail.com
+
+Thank you for downloading this game and I hope you have lot's of fun playing it!
+
+Notice:
+
+  Please note that this software is used entirely at your own RISK and comes with 
+  absolutely no guarantee or warrantee what so ever and by using this software 
+  you agree to these terms. It is free to be used by a private individual but not
+  for commercial use without permission.
+
+
+Notes:
+
+1. Controls *Menu and Game*:
+
+   Using the mouse:
+
+     MENU:
+       Use the mouse scroll-wheel up Menu-up.
+       Use the mouse scroll-wheel down Menu-down.
+       Use the Left mouse button to Select/Sound volume down.
+       Use the Right mouse button to go Back/Sound volume up.
+   
+     GAME:
+       Use the mouse to move the cross-hair.
+       Use Left mouse button to fire or to start/resume game.
+       Use right mouse button to pause or Exit game.
+       Use center mouse button to take a screenshot. 
+
+   Using the X-Joystick:
+
+     MENU:
+       Use the button B/2 scroll Menu-up.
+       Use the button X/3 scroll  Menu-down.
+       Use the button A/1 scroll  to Select/Sound volume down.
+       Use the button Y/4 scroll  to go Back/Sound volume up.
+   
+     GAME:
+       Use the left analogue stick to move the cross-hair.
+       Use button A/1 to fire or to start/resume game.
+       Use button Y/4 to pause or Exit game.
+       Use button RB/6 to take a screenshot. 
+
+2. Edit your name on the *Hall_of_Fame*:
+
+   Using the mouse:
+
+     If you have made it into the Hall_of_Fame
+     Use the right mouse button to delete the preset user name.
+     Use the scroll-wheel up and down to scroll through the characters.
+     Use the center mouse button (scroll-wheel button) to select a character.
+     Repeat until done up to 13 characters.
+     And then use the left mouse button to save and exit.
+
+   Using the X-Joystick:
+
+     If you have made it into the Hall_of_Fame
+     Use button Y/4 to delete the preset user name.
+     Use button B/2 scroll up through the characters.
+     Use button X/3 scroll down through the characters.
+     Use button RB/6 to select a character.
+     Repeat until done up to 13 characters.
+     And then use the button A/1 to save and exit.
+
+3. Play soundtrack:
+
+     You can (Copy/Paste) your own music (ogg/mp3) to the SoundTx folder and
+     listen to it.
+    
+     Scroll through the menu, stop when you see a song title>
+
+   Using the mouse:
+
+     Use the scroll-wheel up and down through the menu and stop when you see 
+     a song title.
+     Use the left mouse button to play the song.
+     Use the right mouse button to stop the song.
+     Use the center mouse button (scroll-wheel button) to change song title.
+     Use scroll-wheel up and down the menu to continue.
+
+   Using the X-Joystick:
+
+     Use button B/2 or X/3 to scroll up and down through the menu and stop when 
+     you see a song title.
+     Use button A/1 to play the song.
+     Use button Y/4 to stop the song.
+     Use button RB/6 to change song title.
+     Use button B/2 or X/3 to up and down the menu to continue. 
+
+4. Useful *Hints and Tips*: 
+  
+   Set to full screen mode. 
+   Shoot the asteroids as fast as possible and start shooting 
+     before you see them.
+   Shoot the UFO and it will drop bombs that you must also shoot
+     for extra points and to get extra power and shields later on.
+   Shoot the power and shield icons to activate them.
+   Shoot the Alien-bugs twice to destroy them.
+
+5. Change testMode to True: 
+  
+   The Game will show the bounding rectangles and circles.
+   Scroll-wheel up will give you shields.
+   Scroll-wheel down will create UFO's.
+
+
+
+
